@@ -24,7 +24,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 * 视频教程：（我操作很慢，自行倍速/快进）
    * 在线/下载地址：https://kino-onemanager.herokuapp.com/Video/AutoApi%E6%95%99%E7%A8%8B.mp4?preview
    * B站：https://www.bilibili.com/video/av95688306/
-           
+            
 
 ### 区别 ###
    [普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用
